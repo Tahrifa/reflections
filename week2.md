@@ -1,6 +1,6 @@
 Visualization link: https://www.biorxiv.org/content/biorxiv/early/2019/05/10/634675/F1.large.jpg?width=800&height=600&carousel=1
 
-![image](https://user-images.githubusercontent.com/54874663/108066203-0682b280-702d-11eb-9a78-6a52484c7c24.png)
+![image](https://user-images.githubusercontent.com/54874663/108066386-45b10380-702d-11eb-99fd-1cfc855ced1c.png)
 
 Figure (a)  belongs to original EEG signals collected during anesthesia. 
 These signals are filtered by EMD (Empirical Mode Decomposition) and noise is removed in Figure (b). 
