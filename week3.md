@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/54874663/108739759-f1ad8f80-7502-11eb-8831-bd6c74e179d5.png)
+![image](https://user-images.githubusercontent.com/54874663/108743676-0724b880-7507-11eb-8fe9-7cbbd24851ea.png)
 Image link: https://i.redd.it/7imdps3lpsi61.png
 
 The graph is about frequency of the 26 letters in English words and where they occur in the word.
