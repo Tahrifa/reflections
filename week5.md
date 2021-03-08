@@ -9,5 +9,5 @@ She is the CEO of Oracle.
 The other four are from Google, Apple, IBM and Facebook.
 24% women are underrepresented in STEM degrees and 7% at the top VC firms.
 12% of partner roles at Corporate venture firm and incubators are held by women.
-Prominent ech companies founded by women are CISCO, Slideshare, Flickr and Birchbox.
+Prominent tech companies founded by women are CISCO, Slideshare, Flickr and Birchbox.
 Sandra Lerner, Rashmi Sinha, Caterina Fake founded CISCO, Slideshare and Flickr respectively.
